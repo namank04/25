@@ -1,4 +1,4 @@
-# Quantitative Trading and Derivatives Engineering (GSIH 2025)
+# GSIH 2025
 
 This repository contains three quantitative finance challenges implemented in Python:
 
